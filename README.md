@@ -1,4 +1,4 @@
-### 改善のために
+### Hey! I'm Mailson Costa, fullstack developer.
 
 <!--
 **Kaizen2ba2/Kaizen2ba2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
