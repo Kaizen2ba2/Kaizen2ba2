@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <div>
   
-  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=Kaizen2ba2&show_icons=true&theme=radical"/>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizen2ba2&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaizen2ba2&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizen2ba2&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Kaizen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaizen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kaizen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Kaizen-pic" height="150" style="border-radius:50px;" src="https://kaizencollective.net/wp-content/uploads/2022/03/Adsz_Resim-1.png">
+  
 </div>
 
  ##
